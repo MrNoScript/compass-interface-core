@@ -81,3 +81,8 @@ ENV/
 env.bak/
 venv.bak/
 authTest.py
+
+
+# dev files
+script.py
+creds.json
